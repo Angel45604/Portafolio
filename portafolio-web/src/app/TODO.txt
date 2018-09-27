@@ -1,0 +1,27 @@
+-DISEÑO/MAQUETACION 
+    Material design
+    Logo redondo / con borde
+
+
+-MIS PROYECTOS module
+    Get list from github
+    Get screenshot
+    Information
+        Name
+        Platform
+        Technologies
+
+-CHART.js Valley graph
+    no se para que pero se va a ver chido
+    // Probablemente cantidad de proyectos en distintas plataformas/tecnologias
+
+-ROUTER
+    /proyect/? detalle del proyecto || repositorio de github (?
+    /topic/? tecnologia /desarrollo
+    ..=en Lenguaje en ingles es español
+
+-GITHUB
+    Ordenar repositorios
+    Agregar readmes
+    Terminar los malditos proyectos
+    Hostear los proyectos
